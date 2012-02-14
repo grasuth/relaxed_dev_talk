@@ -1,1 +1,21 @@
-Slides for relaxed development talk
+
+This is slides for a short talk about what I call Relaxed Development.
+
+This talk in few lines:
+
+* A combination of code reviews, testing and good standard makes development
+  easy and fun.
+* Git and github and github flow help a lot
+
+And things to learn about github:
+
+* You CAN do a pull request for branches in the same repo.  You don't have to 
+  fork a repo to do that, and
+* There are nice, very nice, line-by-line comments on pull requests, which
+  works as a beautiful discussion tool for code reviews.
+
+Slides prepared using deck.js (included, see separate licenses)
+
+Feel free to remix, rework, reuse non-commercially as long as you credit me.
+
+Enjoy!
